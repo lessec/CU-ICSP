@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.idea/
+.vscode/
+*~
+*.swp
+*.swo
+
+# Backend - Go
+go/
+*.so
+*.test
+wireguard/*
+*.key
+*.conf
+
+# Frontend - Svelt
+node_modules/
+amplify/*
